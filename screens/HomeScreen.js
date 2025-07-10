@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { View, Text, Button } from 'react-native';
-import * as Google from 'expo-auth-session/providers/google';
+// import * as Google from 'expo-auth-session/providers/google';
 import * as WebBrowser from 'expo-web-browser';
 import { firebase } from '../utils/firebaseConfig';
 
