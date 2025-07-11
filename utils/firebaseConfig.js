@@ -1,6 +1,5 @@
 // utils/firebaseConfig.js
-import firebase from 'firebase/app';
-import 'firebase/auth';
+import firebase from 'firebase';
 
 // Initialize Firebase
 const firebaseConfig = {
