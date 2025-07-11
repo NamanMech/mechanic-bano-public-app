@@ -1,7 +1,5 @@
-// utils/firebaseConfig.js
-import firebase from 'firebase';
+import firebase from 'firebase'; // ✅ Full import works best in Snack
 
-// Initialize Firebase
 const firebaseConfig = {
   apiKey: "AIzaSyBc1bRjPiMC0LCCht-wZGTDY5RTLC_Eo0U",
   authDomain: "mechanicbanopublic.firebaseapp.com",
